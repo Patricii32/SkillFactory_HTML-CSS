@@ -1362,7 +1362,7 @@ input[type=checkbox] {
     padding-top: 49px;
     padding-bottom: 47px; 
 }
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1300px) {
     .container{
         max-width: 375px;
     }
